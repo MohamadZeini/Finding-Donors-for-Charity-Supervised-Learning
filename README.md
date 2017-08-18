@@ -1,5 +1,4 @@
-# Project: Finding Donors for CharityML # Supervised Machine Learning 
-#
+# Project: Finding Donors for CharityML## Supervised Machine Learning#
 
 ### Install
 

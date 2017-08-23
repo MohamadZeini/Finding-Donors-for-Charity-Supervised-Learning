@@ -1,6 +1,8 @@
 # Project: Finding Donors for CharityML
 ## Supervised Machine Learning
 
+To see the project refer to finding_donors.ipynb file.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:

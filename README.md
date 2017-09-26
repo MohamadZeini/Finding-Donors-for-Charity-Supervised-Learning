@@ -1,7 +1,11 @@
 # Project: Finding Donors for CharityML
 ## Supervised Machine Learning
 
-To see the project refer to finding_donors.ipynb file.
+To see the project refer to `finding_donors.ipynb` file.
+
+### Overview
+
+CharityML is a charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. With nearly 15 million working Californians, CharityML,we need to build an algorithm to best identify potential donors and reduce overhead cost of sending mail. The goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
 ### Install
 
